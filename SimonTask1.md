@@ -17,10 +17,10 @@
 [Sample answer](https://www.ielts-simon.com/ielts-help-and-english-pr/2019/03/ielts-writing-task-1-physical-activity-answer.html)
 
 ## [3] Pie chart
-***The chart below shows the results of a survey of people who visited four types of tourist attraction in Britain in the year 1999.***
-![](https://www.ielts-simon.com/.a/6a0120a5bb05d8970c01b7c8c6aad4970b-pi)
+***The three pie charts below show the changes in annual spending by a particular UK school in 1981, 1991 and 2001.***
+![](https://www.ielts-simon.com/files/screen-shot-2013-03-27-at-13.21.47-1-1.png)
 
-[Sample answer](https://www.ielts-simon.com/ielts-help-and-english-pr/2017/01/ielts-writing-task-1-pie-chart-answer.html)
+[Sample answer](https://www.ielts-simon.com/ielts-help-and-english-pr/2014/10/ielts-writing-task-1-pie-charts-essay.html)
 
 ## [4] Table
 ![](https://www.ielts-practice.org/wp-content/uploads/2017/01/modes-of-travel.png)
