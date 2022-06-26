@@ -1,0 +1,4 @@
+- Listening: 50?
+- Vocabulary: 30
+- Reading: 60
+- Writing: 60 (Summary 15 - Task 1 15 - Task 2 30)
