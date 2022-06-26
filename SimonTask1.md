@@ -18,7 +18,8 @@
 
 ## [3] Pie chart
 ***The three pie charts below show the changes in annual spending by a particular UK school in 1981, 1991 and 2001.***
-![](https://www.ielts-simon.com/files/screen-shot-2013-03-27-at-13.21.47-1-1.png)
+![image](https://user-images.githubusercontent.com/98455140/175796737-9bd7b2cd-fbc0-4d67-ab5d-fe4e631a535f.png)
+
 
 [Sample answer](https://www.ielts-simon.com/ielts-help-and-english-pr/2014/10/ielts-writing-task-1-pie-charts-essay.html)
 
