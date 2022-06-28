@@ -1,5 +1,7 @@
-# IELTS Writing Task 2 - Notes
-- 40 minutes = 10 minutes Plan + 30 mins Writing
+# IELTS-Writing-Task-2-esque 350-word essay - Notes
+- 50 minutes = 10' Planning + 40' Writing
+
+## Essay structure: 15 sentences
 - Go for the easy opinion when writing because your true opinion may be too nuanced
 - Write a skeleton = intro + main idea 1 + main idea 2 + conclusion
 - Always include a topic sentence for each body paragraph
