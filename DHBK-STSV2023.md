@@ -81,3 +81,110 @@ Sinh viên tra cứu trên cổng thông tin ĐHBKHN, cổng thông tin công t�
 - Thông tin về học bổng tài trợ dành cho sinh viên
 - Thông tin về các hoạt động hỗ trợ học tập, tư vấn tâm lý sinh viên
 - Đăng ký dịch vụ sinh viên (KTX, vé xe,...)
+
+### MÔ HÌNH VÀ CHƯƠNG TRÌNH ĐÀO TẠO TÍCH HỢP HỆ CHÍNH QUY
+(chèn hình)
+Các chương trình đào tạo được tổ chức theo mô hình 4+1,5 (tổng thời gian đào tạo là 5,5 năm đối với người học cùng ngành và theo tiến độ chuẩn).
+
+### MÔ HÌNH VÀ CHƯƠNG TRÌNH ĐÀO TẠO TÍCH HỢP HỆ CHÍNH QUY
+#### CHƯƠNG TRÌNH TÍCH HỢP CỬ NHÂN - KỸ SƯ
+Cấp bằng cử nhân và bằng kỹ sư cho người tốt nghiệp.
+
+- Các chương trình đào tạo kỹ sư sẽ được xây dựng theo hướng chuyên sâu nghề nghiệp với chuẩn chương trình về đầu vào, đầu ra và khối lượng kiến thức, đảm bảo tương đương với trình độ thạc sĩ và đạt bậc 7 theo khung trình độ quốc gia. Với khối lượng kiến thức toàn khoá tối thiểu là 180 tín chỉ và chất lượng đào tạo được chuẩn hoá, người tốt nghiệp có thể học chuyển đổi kiến thức qua lại giữa văn bằng kỹ sư và thạc sĩ. Theo đó, nếu sinh viên học chương trình 4 năm sẽ nhận được bằng tốt nghiệp cử nhân; sau đó nếu học tiếp 1,5 năm theo chương trình kỹ sư tích hợp thì sẽ được cấp bằng tốt nghiệp trình độ kỹ sư.
+- Chương trình tích hợp cử nhân – kỹ sư được phát triển với mục đích nâng cao chất lượng của các chương trình đào tạo kỹ sư truyền thống của ĐHBK Hà Nội.
+- Đảm bảo mục tiêu đào tạo trình độ đào tạo kỹ sư theo hướng nghề nghiệp chuyên sâu, kết hợp hài hòa giữa kiến thức hiện đại và các kỹ năng cốt lõi.
+
+#### CHƯƠNG TRÌNH TÍCH HỢP CỬ NHÂN - THẠC SĨ KHOA HỌC
+Cấp bằng cử nhân và bằng thạc sĩ cho người tốt nghiệp.
+
+- Sinh viên theo học chương trình tích hợp cử nhân - thạc sĩ sẽ học chương trình 4 năm và được nhận được bằng tốt nghiệp cử nhân; sau đó nếu học tiếp 1,5 năm theo chương trình thạc sĩ tích hợp sẽ được cấp bằng tốt nghiệp thạc sĩ.
+- Mục tiêu của chương trình là đào tạo nguồn nhân lực có trình độ cao, năng lực nghiên cứu, đổi mới sáng tạo trong khoa học công nghệ.
+- Các chương trình đào tạo đều được được xây dựng phù hợp với các quy định của luật Giáo dục đại học hiện hành về chương trình đào tạo và văn bằng tốt nghiệp. Đảm bảo tính thực tiễn và tính hiện đại theo các chuẩn mực quốc tế và đảm bảo tính tích hợp, thống nhất, liên tục của chương trình giữa các bậc đào tạo Cử nhân và Kỹ sư & Thạc sĩ.
+
+### DANH MỤC CÁC CHUYÊN NGÀNH ĐÀO TẠO
+(chèn hình hoặc link)
+
+### PHƯƠNG PHÁP LẬP KẾ HOẠCH HỌC TẬP
+#### KẾ HOẠCH HỌC TẬP
+- Là một lịch trình được sắp xếp
+- Thể hiện lộ trình học tập theo thời gian của một khóa học
+
+#### LẬP KẾ HOẠCH HỌC TẬP
+- Vai trò của kế hoạch học tập
+- Xác định mục tiêu học tập để lập kế hoạch
+- Lập kế hoạch học tập toàn khóa
+- Lập kế hoạch học tập chi tiết của mỗi kỳ/ hiệu chỉnh kế hoạch
+- Thực hiện kế hoạch
+- Đánh giá tiến độ
+
+#### VAI TRÒ CỦA KẾ HOẠCH HỌC TẬP
+- Hỗ trợ người học đi đúng hướng; 
+- Đảm bảo được mục tiêu đầu ra
+- Đảm bảo đúng tiến độ tại các thời điểm và cả quá trình
+
+#### LÀM SAO ĐỂ THỰC HIỆN ĐƯỢC KẾ HOẠCH ĐỀ RA
+- Nhận biết bản thân
+- Quy tắc sắp xếp thời gian khoa học 
+- Lập thời gian biểu chi tiết
+- Tập trung và tự học
+- Đảm bảo điều kiện học tập
+- Đánh giá kết quả
+
+### LẬP KẾ HOẠCH HỌC TẬP
+#### LẬP KẾ HOẠCH HỌC TẬP TOÀN KHÓA
+##### THIẾT LẬP KẾ HOẠCH HỌC TẬP TOÀN KHÓA PHÙ HỢP VỚI:
+- Mục tiêu học tập
+- Các nguồn lực và điều kiện của bản thân
+- Tối ưu thời gian hoàn thành chương trình học tập
+
+##### CẦN PHẢI NẮM VỮNG CHƯƠNG TRÌNH ĐÀO TẠO
+- Các thông tin chung: Trình độ khi tốt nghiệp; điều kiện tốt nghiệp; mục tiêu đào tạo; chuẩn kiến thức, kỹ năng người tốt nghiệp; khối lượng kiến thức lý thuyết, thực hành, thực tập; kế hoạch đào tạo chuẩn; hình thức đào tạo; cách xếp hạng kết quả học tập.
+- Các thông tin chi tiết: Khối học phần đại cương/cơ sở ngành bắt buộc/tự chọn/ bổ trợ...., điều kiện học tích hợp lên các bậc cao hơn..., điều kiện mỗi học phần và cách đánh giá, các chứng chỉ cần hoàn thành.
+
+#### LẬP KẾ HOẠCH HỌC TẬP TỪNG KỲ
+##### NẮM RÕ CÁC ĐIỀU KIỆN HỌC PHẦN ĐỂ LÊN KẾ HOẠCH ĐĂNG KÝ
+- Học phần học trước, song hành, tiên quyết
+- Cần lưu ý tới các học phần chỉ mở 1 lần/1 năm
+
+##### ĐĂNG KÝ HỌC PHẦN
+- Nhà trường lập kế hoạch mở lớp theo ưu tiên đăng ký các môn bắt buộc trước
+- Với các môn tự chọn: tự lựa chọn theo mong muốn
+- Các học phần chưa đạt: cần nhanh chóng đăng ký học lại
+- Tham khảo ý kiến tư vấn của cố vấn học tập, thầy cô, các sinh viên khóa trước một cách có chọn lọc
+- Các học phần học vượt: cần đăng ký với các khóa trước
+- Các học phần thay thế tương đương: cần nhanh chóng hoàn thành
+- Chủ động đăng ký học phần có giảng viên mong muốn
+
+### THỰC HIỆN KẾ HOẠCH HỌC TẬP
+#### NHẬN BIẾT BẢN THÂN
+- Cần tự biết những thói quen của bản thân 
+- Cần tự biết cá tính của bản thân
+
+#### LẬP THỜI GIAN BIỂU CHI TIẾT
+- Cần bao nhiêu thời gian để tự học
+- Lập lịch trình
+- Lên kế hoạch chi tiết theo ngày
+- Nếu lịch trình bận rộn thì cần linh hoạt, sáng tạo
+
+#### ĐẢM BẢO ĐIỀU KIỆN HỌC TẬP
+- Có đầy đủ giáo trình/sách tham khảo 
+- Dùng ứng dụng quản lý thời gian
+
+#### TẬP TRUNG VÀ TỰ HỌC
+- Đi học đúng giờ
+- Tập trung tâm trí cho việc học tập
+- Đọc trước mô tả học phần/đề cương chi tiết/kế hoạch giảng dạy học phần; 
+- Nắm rõ phương pháp kiểm tra đánh giá, trọng số học phần
+
+#### QUY TẮC SẮP XẾP THỜI GIAN KHOA HỌC
+- Cần sắp xếp thời gian học tập một cách khoa học: để đạt mục tiêu học tập của kỳ
+- Khi sắp xếp thời gian phải đảm bảo 4 yếu tố:
+  - Toàn diện
+  - Hợp lý
+  - Nổi bật trọng điểm
+  - Dành khoảng thời gian trống
+
+#### TỰ ĐÁNH GIÁ KẾT QUẢ BẢN THÂN
+- Tự so sánh kết quả học tập với các bạn trong lớp
+- Tự đánh giá với kết quả đó và thời gian đã đầu tư cho học tập để kiểm tra lại mục tiêu sau mỗi học kỳ và tránh việc học thừa hoặc thiếu học phần
+- Kiểm tra bảng theo dõi quá trình học tập cá nhân trên [https://ctt.hust.edu.vn](https://ctt.hust.edu.vn) để nắm được: tiến độ và kết quả học tập; mức cảnh báo học tập; số tín chỉ nợ; khối lượng còn lại của CTĐT; tình trạng các môn học tương đương hoặc thay thế để xin chuyển điểm tương đương;.....
